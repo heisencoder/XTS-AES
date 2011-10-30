@@ -1,0 +1,295 @@
+
+MODE XTS
+VEC 0001
+
+EKY (#16,00)
+TKY (#16,00)
+LBA 00
+PTX (#32,00)
+GEN 
+
+EKY (#16,11)
+TKY (#16,22)
+LBA (#5,33)
+PTX (#32,44)
+GEN 
+
+EKY (#16,ff,ff)
+TKY (#16,22)
+LBA (#5,33)
+PTX (#32,44)
+GEN 
+
+EKY (#16,ff,ff)
+TKY (#16,bf,ff)
+LBA (#5,33)
+PTX (#32,44)
+GEN 
+
+EKY (#16,ff,ff)
+TKY (#16,bf,ff)
+LBA 9a78563412
+PTX (#32,44)
+GEN 
+
+EKY (#16,ff,ff)
+TKY (#16,bf,ff)
+LBA 9a78563412
+PTX (#16,00,01)
+GEN 
+
+EKY (#16,ff,ff)
+TKY (#16,bf,ff)
+LBA 9a78563412
+PTX (#17,00,01)
+GEN 
+
+EKY (#16,ff,ff)
+TKY (#16,bf,ff)
+LBA 9a78563412
+PTX (#18,00,01)
+GEN 
+
+EKY (#16,ff,ff)
+TKY (#16,bf,ff)
+LBA 9a78563412
+PTX (#19,00,01)
+GEN 
+
+EKY (#16,ff,ff)
+TKY (#16,bf,ff)
+LBA 9a78563412
+PTX (#20,00,01)
+GEN 
+
+EKY (#16,ff,ff)
+TKY (#16,bf,ff)
+LBA 9a78563412
+PTX (#21,00,01)
+GEN 
+
+EKY (#16,ff,ff)
+TKY (#16,bf,ff)
+LBA 9a78563412
+PTX (#22,00,01)
+GEN 
+
+EKY (#16,ff,ff)
+TKY (#16,bf,ff)
+LBA 9a78563412
+PTX (#23,00,01)
+GEN 
+
+EKY (#16,ff,ff)
+TKY (#16,bf,ff)
+LBA 9a78563412
+PTX (#24,00,01)
+GEN 
+
+EKY (#16,ff,ff)
+TKY (#16,bf,ff)
+LBA 9a78563412
+PTX (#25,00,01)
+GEN 
+
+EKY (#16,ff,ff)
+TKY (#16,bf,ff)
+LBA 9a78563412
+PTX (#26,00,01)
+GEN 
+
+EKY (#16,ff,ff)
+TKY (#16,bf,ff)
+LBA 9a78563412
+PTX (#27,00,01)
+GEN 
+
+EKY (#16,ff,ff)
+TKY (#16,bf,ff)
+LBA 9a78563412
+PTX (#28,00,01)
+GEN 
+
+EKY (#16,ff,ff)
+TKY (#16,bf,ff)
+LBA 9a78563412
+PTX (#29,00,01)
+GEN 
+
+EKY (#16,ff,ff)
+TKY (#16,bf,ff)
+LBA 9a78563412
+PTX (#30,00,01)
+GEN 
+
+EKY (#16,ff,ff)
+TKY (#16,bf,ff)
+LBA 9a78563412
+PTX (#31,00,01)
+GEN 
+
+EKY (#16,ff,ff)
+TKY (#16,bf,ff)
+LBA 9a78563412
+PTX (#32,00,01)
+GEN 
+
+EKY (#16,e0,01)
+TKY (#16,c0,01)
+LBA 21436587a9
+PTX (#512,00,01)
+GEN 
+
+EKY (#16,e0,01)
+TKY (#16,c0,01)
+LBA 21436587a9
+PTX (#520,00,01)
+GEN 
+
+
+
+
+EKY (#32,00)
+TKY (#32,00)
+LBA 00
+PTX (#32,00)
+GEN 
+
+EKY (#32,11)
+TKY (#32,22)
+LBA (#5,33)
+PTX (#32,44)
+GEN 
+
+EKY (#32,ff,ff)
+TKY (#32,22)
+LBA (#5,33)
+PTX (#32,44)
+GEN 
+
+EKY (#32,ff,ff)
+TKY (#32,bf,ff)
+LBA (#5,33)
+PTX (#32,44)
+GEN 
+
+EKY (#32,ff,ff)
+TKY (#32,bf,ff)
+LBA 9a78563412
+PTX (#32,44)
+GEN 
+
+EKY (#32,ff,ff)
+TKY (#32,bf,ff)
+LBA 9a78563412
+PTX (#16,00,01)
+GEN 
+
+EKY (#32,ff,ff)
+TKY (#32,bf,ff)
+LBA 9a78563412
+PTX (#17,00,01)
+GEN 
+
+EKY (#32,ff,ff)
+TKY (#32,bf,ff)
+LBA 9a78563412
+PTX (#18,00,01)
+GEN 
+
+EKY (#32,ff,ff)
+TKY (#32,bf,ff)
+LBA 9a78563412
+PTX (#19,00,01)
+GEN 
+
+EKY (#32,ff,ff)
+TKY (#32,bf,ff)
+LBA 9a78563412
+PTX (#20,00,01)
+GEN 
+
+EKY (#32,ff,ff)
+TKY (#32,bf,ff)
+LBA 9a78563412
+PTX (#21,00,01)
+GEN 
+
+EKY (#32,ff,ff)
+TKY (#32,bf,ff)
+LBA 9a78563412
+PTX (#22,00,01)
+GEN 
+
+EKY (#32,ff,ff)
+TKY (#32,bf,ff)
+LBA 9a78563412
+PTX (#23,00,01)
+GEN 
+
+EKY (#32,ff,ff)
+TKY (#32,bf,ff)
+LBA 9a78563412
+PTX (#24,00,01)
+GEN 
+
+EKY (#32,ff,ff)
+TKY (#32,bf,ff)
+LBA 9a78563412
+PTX (#25,00,01)
+GEN 
+
+EKY (#32,ff,ff)
+TKY (#32,bf,ff)
+LBA 9a78563412
+PTX (#26,00,01)
+GEN 
+
+EKY (#32,ff,ff)
+TKY (#32,bf,ff)
+LBA 9a78563412
+PTX (#27,00,01)
+GEN 
+
+EKY (#32,ff,ff)
+TKY (#32,bf,ff)
+LBA 9a78563412
+PTX (#28,00,01)
+GEN 
+
+EKY (#32,ff,ff)
+TKY (#32,bf,ff)
+LBA 9a78563412
+PTX (#29,00,01)
+GEN 
+
+EKY (#32,ff,ff)
+TKY (#32,bf,ff)
+LBA 9a78563412
+PTX (#30,00,01)
+GEN 
+
+EKY (#32,ff,ff)
+TKY (#32,bf,ff)
+LBA 9a78563412
+PTX (#31,00,01)
+GEN 
+
+EKY (#32,ff,ff)
+TKY (#32,bf,ff)
+LBA 9a78563412
+PTX (#32,00,01)
+GEN 
+
+EKY (#32,e0,01)
+TKY (#32,c0,01)
+LBA 21436587a9
+PTX (#512,00,01)
+GEN 
+
+EKY (#32,e0,01)
+TKY (#32,c0,01)
+LBA 21436587a9
+PTX (#520,00,01)
+GEN 
+

@@ -185,7 +185,7 @@
     order (which later checks below ensure).
 */
 
-#if 1 && !defined( USE_VIA_ACE_IF_PRESENT )
+#if 0 && !defined( USE_VIA_ACE_IF_PRESENT )
 #  define USE_VIA_ACE_IF_PRESENT
 #endif
 
